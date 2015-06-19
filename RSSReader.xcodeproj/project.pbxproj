@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		AA8AA144194362C900C3888B /* logo.png in Resources */ = {isa = PBXBuildFile; fileRef = AA8AA143194362C900C3888B /* logo.png */; };
 		AAC02B19193DEEFE003997F3 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAC02B18193DEEFE003997F3 /* AppDelegate.swift */; };
 		AAC02B1B193DEEFE003997F3 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAC02B1A193DEEFE003997F3 /* ViewController.swift */; };
 		AAC02B20193DEEFE003997F3 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AAC02B1F193DEEFE003997F3 /* Images.xcassets */; };
@@ -40,7 +39,6 @@
 /* Begin PBXFileReference section */
 		53416CE8FE6DF66884090E57 /* Pods.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.debug.xcconfig; path = "Pods/Target Support Files/Pods/Pods.debug.xcconfig"; sourceTree = "<group>"; };
 		84B1DE9ECD3161F22191C86C /* Pods.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.release.xcconfig; path = "Pods/Target Support Files/Pods/Pods.release.xcconfig"; sourceTree = "<group>"; };
-		AA8AA143194362C900C3888B /* logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo.png; sourceTree = "<group>"; };
 		AAC02B13193DEEFE003997F3 /* RSSReader.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RSSReader.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AAC02B17193DEEFE003997F3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		AAC02B18193DEEFE003997F3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -127,7 +125,6 @@
 				D15C01FD1B332A6300A7F799 /* View9.swift */,
 				D15C01FF1B332A6D00A7F799 /* View10.swift */,
 				D15C02011B332BFF00A7F799 /* View11.swift */,
-				AA8AA143194362C900C3888B /* logo.png */,
 				AAC02B18193DEEFE003997F3 /* AppDelegate.swift */,
 				AAC02B1A193DEEFE003997F3 /* ViewController.swift */,
 				AAC02B1F193DEEFE003997F3 /* Images.xcassets */,
@@ -254,7 +251,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				AA8AA144194362C900C3888B /* logo.png in Resources */,
 				AAC02B3A193DF344003997F3 /* Podfile in Resources */,
 				AAC02B20193DEEFE003997F3 /* Images.xcassets in Resources */,
 				D14710EC1B2EA7F800C1A4A2 /* Main.storyboard in Resources */,
